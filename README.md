@@ -1,1 +1,1 @@
-# monster-slayer-vue
+https://alexshanless.github.io/monster-slayer-vue
